@@ -13,7 +13,7 @@ export default function App() {
       <header className="app-header">
         <div className="header-eyebrow">Forest Fire Prediction System</div>
         <h1>
-          Fire Risk
+          Forest Fire Risk
           <span>Analyser</span>
         </h1>
         <p>
