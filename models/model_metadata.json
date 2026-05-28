@@ -1,0 +1,26 @@
+{
+    "model": "XGBoost",
+    "threshold": 0.35,
+    "features": [
+        "X",
+        "Y",
+        "FFMC",
+        "DMC",
+        "DC",
+        "ISI",
+        "temp",
+        "RH",
+        "wind",
+        "rain",
+        "dryness_index",
+        "humidity_deficit",
+        "no_rain",
+        "heat_stress",
+        "vegetation_dryness",
+        "month_num",
+        "day_num",
+        "month_sin",
+        "month_cos"
+    ],
+    "roc_auc": 0.6811111111111111
+}

@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+*.pkl
+*.csv
+*.parquet
+node_modules/
+dist/

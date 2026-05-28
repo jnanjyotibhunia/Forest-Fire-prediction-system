@@ -1,0 +1,7 @@
+{
+    "ROC_AUC": 0.6811111111111111,
+    "Balanced_Accuracy": 0.6248148148148148,
+    "MCC": 0.24949106196442594,
+    "False_Negatives": 20,
+    "False_Positives": 19
+}
