@@ -8,6 +8,7 @@ from api.schemas import BatchInput
 
 from fastapi.middleware.cors import CORSMiddleware
 
+#  main file
 
 app = FastAPI(
     title="Forest Fire Prediction API",
